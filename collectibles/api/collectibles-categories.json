@@ -1,26 +1,35 @@
-[
+{
+  "categories": [
     {
-        "sku": "1245087661316898877",
-        "name": "Joystick",
-        "description": "Pressing buttons harder definitely increases your chances of winning.",
-        "price": "US$5.99",
-        "pricenitro": "US$4.99",
-        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_795573a62c6d9b583f3029100f90d56b.png?size=240"
-    },
-    {
-        "sku": "1245087724265013299",
-        "name": "Clyde Invaders",
-        "description": "Rogue invaders have taken control of the galaxy. It’s up to you to save the day.",
-        "price": "US$5.99",
-        "pricenitro": "US$4.99",
-        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_e72e44eeea89e92dc02c9bec8b02d158.png?size=240"
-    },
-    {
-        "sku": "1245087850177888356",
-        "name": "Pipedream",
-        "description": "If you stare at this for 5,461 seconds without blinking, you win.",
-        "price": "US$5.99",
-        "pricenitro": "US$4.99",
-        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=240"
+      "banner": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237649691953336363.png?size=1280",
+      "logo": "https://cdn.discordapp.com/app-assets/1096190356233670716/1237937648727756883.png?size=480",
+      "text": "Category 1 Description"
     }
-]
+  ],
+  "products": [
+    {
+      "sku": "SKU001",
+      "name": "Product A",
+      "description": "Description of Product A",
+      "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_89155faed81b205d59fbbefa4316952d.png?size=240",
+      "pricenitro": "$19.99",
+      "otherprice": "$24.99"
+    },
+    {
+      "sku": "SKU002",
+      "name": "Product B",
+      "description": "Description of Product B",
+      "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=240",
+      "pricenitro": "$29.99",
+      "otherprice": "$34.99"
+    },
+    {
+      "sku": "SKU003",
+      "name": "Product C",
+      "description": "Description of Product C",
+      "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_2d792aad5003faf6809e26879a7eae6b.png?size=240",
+      "pricenitro": "$39.99",
+      "otherprice": "$44.99"
+    }
+  ]
+}
