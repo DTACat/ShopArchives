@@ -2,11 +2,13 @@
     {
         "id": 1,
         "name": "John Doe",
-        "email": "john@example.com"
+        "email": "john@example.com",
+        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_89155faed81b205d59fbbefa4316952d.png?size=240&passthrough=true"
     },
     {
         "id": 2,
         "name": "Jane Smith",
-        "email": "jane@example.com"
+        "email": "jane@example.com",
+        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=240&passthrough=true"
     }
 ]
