@@ -1,14 +1,16 @@
 [
     {
-        "id": 1,
+        "sku": "SKU123",
         "name": "John Doe",
-        "email": "john@example.com",
+        "description": "A description for John Doe.",
+        "price": "$99.99",
         "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_89155faed81b205d59fbbefa4316952d.png?size=240&passthrough=true"
     },
     {
-        "id": 2,
+        "sku": "SKU456",
         "name": "Jane Smith",
-        "email": "jane@example.com",
-        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=240&passthrough=true"
+        "description": "A description for Jane Smith.",
+        "price": "$199.99",
+        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_798a5bcbb11067e4d9ab339e51d2a16c.png?size=240&passthrough=true"
     }
 ]
