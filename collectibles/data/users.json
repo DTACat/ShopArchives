@@ -4,13 +4,13 @@
         "name": "Joystick",
         "description": "Pressing buttons harder definitely increases your chances of winning.",
         "price": "US$4.99",
-        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_795573a62c6d9b583f3029100f90d56b.png?size=240&passthrough=false"
+        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_795573a62c6d9b583f3029100f90d56b.png?size=240"
     },
     {
         "sku": "1245087724265013299",
         "name": "Clyde Invaders",
         "description": "Rogue invaders have taken control of the galaxy. It’s up to you to save the day.",
         "price": "US$4.99",
-        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_e72e44eeea89e92dc02c9bec8b02d158.png?size=240&passthrough=false"
+        "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_e72e44eeea89e92dc02c9bec8b02d158.png?size=240"
     }
 ]
