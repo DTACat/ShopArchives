@@ -4,11 +4,48 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Static API Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin-bottom: 20px;
+            cursor: pointer;
+        }
+
+        .user-box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin: 10px;
+            width: 300px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        .user-box h2 {
+            margin: 0 0 10px 0;
+        }
+
+        .user-box p {
+            margin: 5px 0;
+        }
+    </style>
 </head>
 <body>
     <h1>Static API Example</h1>
     <button id="fetchData">Fetch Data</button>
-    <pre id="data"></pre>
+    <div id="data"></div>
 
     <script src="script.js"></script>
 </body>
