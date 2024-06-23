@@ -5,7 +5,7 @@
     "description": "Description of Product A",
     "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_89155faed81b205d59fbbefa4316952d.png?size=240",
     "pricenitro": "$19.99",
-    "otherprice": "$24.99"
+    "price": "$24.99"
   },
   {
     "sku": "SKU002",
@@ -13,7 +13,7 @@
     "description": "Description of Product B",
     "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=240",
     "pricenitro": "$29.99",
-    "otherprice": "$34.99"
+    "price": "$34.99"
   },
   {
     "sku": "SKU003",
@@ -21,6 +21,6 @@
     "description": "Description of Product C",
     "image": "https://cdn.discordapp.com/avatar-decoration-presets/a_2d792aad5003faf6809e26879a7eae6b.png?size=240",
     "pricenitro": "$39.99",
-    "otherprice": "$44.99"
+    "price": "$44.99"
   }
 ]
